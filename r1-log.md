@@ -16,7 +16,8 @@ The course emphasized the importance of understanding and minimizing attack path
 
 Overall, I found the course to be very informative and a great foundation for further learning in the cybersecurity field.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="05eaee04-7371-46d7-9f8d-8bf19cecc011" data-share-badge-host="https://www.credly.com"></div>
+[My Credly Badge](https://www.credly.com/badges/05eaee04-7371-46d7-9f8d-8bf19cecc011/public_url)
+
 
 Here are two additional resources I found helpful:
 - Introduction to Classic Security Models - https://www.geeksforgeeks.org/introduction-to-classic-security-models/
