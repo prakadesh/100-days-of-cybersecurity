@@ -18,6 +18,7 @@ Overall, I found the course to be very informative and a great foundation for fu
 
 **<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="05eaee04-7371-46d7-9f8d-8bf19cecc011" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>**
 
-
-
+Here are two additional resources I found helpful:
+- Introduction to Classic Security Models - https://www.geeksforgeeks.org/introduction-to-classic-security-models/
+- Understanding Attack Vectors: The Top 10 Most Common Paths to Attack - https://www.upguard.com/blog/attack-vector
 ### R1D2
