@@ -44,3 +44,12 @@ completed my day 2 on  **The frameworks and standards** where i learned on:
 - OWASP provides a set of guidelines for developing secure web applications.
 
 - SANS Critical Security Controls is a set of 20 controls that organizations can implement to improve their cybersecurity posture.
+
+### R1D3
+completed my day 3 on  **cybersecurity threats and vulnerabilities**
+
+learned on **Introduction to Cybersecurity Tools & Cyber Attacks** by IBM on coursera
+
+
+
+
