@@ -50,6 +50,16 @@ completed my day 3 on  **cybersecurity threats and vulnerabilities**
 
 learned on **Introduction to Cybersecurity Tools & Cyber Attacks** by IBM on coursera
 
+### R1D4
+completed my day 4 on Symmetric encryption learned that 
+
+- It is one of the fundamental building blocks of cryptography that provides confidentiality, while data integrity and authenticated encryption provide both confidentiality and data integrity.
+
+- Symmetric encryption is a technique in which the same key is used for encrypting and decrypting data. The security of symmetric encryption relies on keeping the key secret. However, this technique does not provide any assurance about the integrity of the data.
+
+- Data integrity is the assurance that data has not been tampered with during transit. To ensure data integrity, authenticated encryption is used, which provides both confidentiality and data integrity. Authenticated encryption uses a symmetric encryption algorithm and a message authentication code (MAC) algorithm. The MAC algorithm produces a tag that is attached to the encrypted data to ensure data integrity.
+
+- There are different symmetric encryption algorithms such as AES, DES, and Blowfish, while there are different authenticated encryption algorithms such as AES-GCM, ChaCha20-Poly1305, and AES-CCM. Both symmetric encryption and authenticated encryption are essential to ensure the confidentiality and integrity of data in various applications such as communication, storage, and e-commerce.
 
 
 
