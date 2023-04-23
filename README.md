@@ -5,3 +5,4 @@ forked from https://github.com/kallaway/100-days-of-code
 - DAY 2: The frameworks and standards
 - DAY 3:cybersecurity threats and vulnerabilities
 - DAY 4: Symmetric encryption
+- DAY 5: Asymmetric encryption and x509 certificate
