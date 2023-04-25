@@ -7,3 +7,4 @@ forked from https://github.com/kallaway/100-days-of-code
 - DAY 4: Symmetric encryption
 - DAY 5: Asymmetric encryption and x509 certificate
 - DAY 6: the virtual machine vulnerabilities and attacks
+- DAY 7: the vulnerability testing and assessment processes
