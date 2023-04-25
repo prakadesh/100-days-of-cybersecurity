@@ -61,5 +61,16 @@ completed my day 4 on Symmetric encryption learned that
 
 - There are different symmetric encryption algorithms such as AES, DES, and Blowfish, while there are different authenticated encryption algorithms such as AES-GCM, ChaCha20-Poly1305, and AES-CCM. Both symmetric encryption and authenticated encryption are essential to ensure the confidentiality and integrity of data in various applications such as communication, storage, and e-commerce.
 
+### R1D5-D7
+completed these days studying for my exams on 
+- Cloud Security 
+   - I learned on encryption and decryption algorithms RSA, PKI,x509 certification
+   - also on the virutalization and those vulnerablity along with attacks based on it 
+- Software Vulnerability Testing 
+   - learned on neccesity of auditing 
+   - auditing and black box testing
+   - vulnerability assesment and testing methods 
+   - memory corruption vulnerability
+
 
 
