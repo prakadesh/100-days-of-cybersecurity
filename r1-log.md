@@ -72,6 +72,13 @@ completed these days studying for my exams on
    - vulnerability assesment and testing methods 
    - memory corruption vulnerability
    - vulnerability assesment methods testing process
-
+### R1D9
+completed my day 9 after completing my exam started on learning network fundamental
+- types of networks
+- Types of Network Components
+- Types of Network Media
+- Types of Geographical distance Networks
+- Open Systems Interconnection (OSI) model
+continue learning the remaining on d10 
 
 
