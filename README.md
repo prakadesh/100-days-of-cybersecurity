@@ -8,4 +8,5 @@ forked from https://github.com/kallaway/100-days-of-code
 - DAY 5: Asymmetric encryption and x509 certificate
 - DAY 6: the virtual machine vulnerabilities and attacks
 - DAY 7: the vulnerability testing and assessment processes
-- DAY 8: vulnerability testing methods and attacks 
+- DAY 8: vulnerability testing methods and attacks
+- DAY 9: OSI model
