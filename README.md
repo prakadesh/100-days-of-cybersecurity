@@ -10,3 +10,5 @@ forked from https://github.com/kallaway/100-days-of-code
 - DAY 7: the vulnerability testing and assessment processes
 - DAY 8: vulnerability testing methods and attacks
 - DAY 9: OSI model
+- DAY 10: Firewall technology
+- DAY 11: cryptographic attack
