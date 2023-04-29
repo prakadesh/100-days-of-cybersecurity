@@ -80,5 +80,34 @@ completed my day 9 after completing my exam started on learning network fundamen
 - Types of Geographical distance Networks
 - Open Systems Interconnection (OSI) model
 continue learning the remaining on d10 
+### R1D10
+completed my day 10 on Firewall technology
+- packet filtering we can make decision based on the source and destination parameter alone
+- also we block the inbound tcp segment with ack=0 to prevent external clients from making tcp connection with tcp but allow internal to connect with external
+- APPLICATION gateway are also a type of packet filtering on a application data as well as on the they are present at the top of the osi stacks as well as on the ip transport layer this can cause masquerade or spook the IP address. packet generally have all or noting policy for udp
+- xml gateway is a transport protocol that moves documents, communication artifacts through conventional firewalls without inspection. port 80 is used so a standard firewall cannot differentiate between XML traffic and a communication tool, an external web server. So a standard firewall cannot differentiate between XML traffic and a communication tool, an external web server. There's a challenge within that. XML gateways, which are generally installed just inside the first firewall in a DMZ takes a look at the payload of the XML message for compliance, for security policy compliance. So fundamentally, this is the XML message to stack
+- stateless firewalls has no concept of the state. It can also be called packet filters. They make their decisions based on IP and port. They lacked the sense of the state, and they're less secure
+- Stateful firewalls, they have a state tables basically allowed the firewall to compare current packets with previous packets. which makes the firewall  slower, more secure than their stateless firewall. they're also called application firewalls, and they can make decisions based on filter information based on the type of website that somebody is listening
+- antivirus generally Comparing hashes of files is how most detect malicious files on your system. to the malicious file md5 hash
+
+### R1D11
+day 11 done with a completion of course on coursera on topic Introduction to Cybersecurity Tools & Cyber Attacks by IBM
+
+cryptographic attack
+
+the five common forms of cryptographic attack, brute force, rainbow tables, social engineering, known plaintext, known ciphertext
+
+brute force is an attack based on trial and error, and effectively would work through submission of many passwords or fast traces to hope that eventually it will guess correctly.
+
+Rainbow tables are similar, but they use a limited amount of information or entity, or files, and they actually contain three hash passwords that we can check against hash customers, that makes the attacks a lot faster.
+
+Social engineering consists using non-technical methods to get those, maybe get the password from the end users themselves.
+
+The known plaintext attack is based on having only plain text, and doing analysis based on that plaint text to try to understand how the cipher works, and how the cipher encrypts the information. This is an attempt to actually understand and try to get the actual key that is used in the cipher to encrypt the information. Once you have the key, you are able to decrypt or encrypt any information
+
+The known ciphertext attack is the process of having only ciphertext. It's similar to the plaintext attack, but with the difference that we don't own plaintext, we just own ciphertext, and based on that ciphertext, we try to defer the key used in the cipher to again, encrypt and decrypt information.
+
+- Substitution cipher is a simple form of symmetric key cryptography where one letter is substituted for another, but it is not secure due to the uneven distribution of letters in the English language.
+- The weakness of symmetric key cryptography is key distribution, where the challenge is to securely transmit the encryption key to the receiver.
 
 
