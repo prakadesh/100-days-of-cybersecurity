@@ -12,3 +12,5 @@ forked from https://github.com/kallaway/100-days-of-code
 - DAY 9: OSI model
 - DAY 10: Firewall technology
 - DAY 11: cryptographic attack
+- DAY 12: Intrusion Detection and Prevention Systems
+
