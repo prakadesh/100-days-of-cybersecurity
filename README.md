@@ -18,5 +18,6 @@ Here's the progress made so far:
 - DAY 10: Firewall technology
 - DAY 11: Cryptographic attack
 - DAY 12: Intrusion Detection and Prevention Systems
+- DAY 13:Command Injection and Broken Authentication
 
 We'll be updating this list as we go along with the challenge.
