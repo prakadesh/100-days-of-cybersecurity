@@ -20,5 +20,6 @@ Here's the progress made so far:
 - DAY 12: Intrusion Detection and Prevention Systems
 - DAY 13:Command Injection and Broken Authentication
 - DAY 14:Epics Project prep
+- DAY 15:learned on using nuclei (vuln scanner)
 
 We'll be updating this list as we go along with the challenge.
