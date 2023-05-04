@@ -2,6 +2,7 @@
 
 The log of my #100DaysOfCybersecurity challenge. Started on [April 19, Wednesday, 2023].
 
+
 ## Log
 
 ### R1D1 
@@ -124,5 +125,35 @@ Furthermore, I learned about privilege escalation with Docker on a non-root user
 
 Overall, today's exploration of IDS and IPS systems has taught me a lot about detecting and preventing intrusions into computer systems. The various techniques and tools I have learned will no doubt be useful in improving security measures for any computer system.
 
+### R1D13
+completed my day on Command Injection and Broken Authentication
+i learned about the Command Injection and Broken Authentication from the tryhackme room OWASP Top 10
+
+- Command line injection is a type of attack where an attacker injects malicious code into a command line interface (CLI) to execute unauthorized commands on a target system. To protect against this type of attack, it's crucial to validate all input data and sanitize user input to prevent the execution of unauthorized commands.
+- Broken authentication is another vulnerability that occurs when an application fails to properly authenticate users, allowing attackers to gain unauthorized access to the system. To protect against this, it's important to implement secure authentication mechanisms such as multi-factor authentication and strong password policies.
+By staying vigilant and implementing best practices, we can protect our systems and data against these and other types of attacks.
+
+### R1D14
+on day 14 I wasn't able to study anything specifically related to cybersecurity. Instead, I spent my time preparing for and completing an Android app group project.
+
+Although I don't know Java, I was able to learn how to use and understand the various components and structure of an Android app. I focused on the functionality of the app and added some features, such as sending an API request to an endpoint API server.
+
+The endpoint API server was self-hosted and run by a machine learning model to predict certain outcomes. It was interesting to learn about how the app components worked together to make this feature possible.
+
+Even though this project wasn't directly related to cybersecurity, it still taught me valuable skills that can be applied in various areas,
+
+### R1D15
+I learned about a powerful web vulnerability scanner called "Nuclei". 
+- Nuclei is an open-source project that helps to automate web application testing and identify vulnerabilities in web applications.
+
+- it was possible to scan a website for a wide range of vulnerabilities such as cross-site scripting (XSS), SQL injection, and remote code execution. 
+- it uses a simple YAML-based syntax to define the attack templates and the payload for the tests. which makes it easy to write custom attack scripts that can test for specific vulnerabilities.
+- Nuclei has a ability to detect and report issues in real-time.
+### R1D16
+I have been learning about two  topics: XML External Entity (XXE) and Broken Access Control.
+- XXE is a type of attack where an attacker can exploit a vulnerability in an XML parser to access sensitive data or execute arbitrary code. To prevent this, it's important to sanitize all input data and disable external entities in XML parsers.
+- Broken Access Control is another vulnerability that occurs when an application fails to properly restrict access to sensitive data or functionality. This can lead to unauthorized access and information disclosure. To prevent this, access controls should be properly implemented and tested.
 
 
+
+**Note**: Due to some issue, my daily updates for some days may take some time to be updated, but I will make sure to update them first in the README file.
