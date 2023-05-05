@@ -153,7 +153,16 @@ I learned about a powerful web vulnerability scanner called "Nuclei".
 I have been learning about two  topics from the tryhackme room OWASP Top 10: XML External Entity (XXE) and Broken Access Control.
 - XXE is a type of attack where an attacker can exploit a vulnerability in an XML parser to access sensitive data or execute arbitrary code. To prevent this, it's important to sanitize all input data and disable external entities in XML parsers.
 - Broken Access Control is another vulnerability that occurs when an application fails to properly restrict access to sensitive data or functionality. This can lead to unauthorized access and information disclosure. To prevent this, access controls should be properly implemented and tested.
+### R1D17
+I learned about the history of malware from a TryHackMe room. Malware is a combination of "malicious" and "software," and it refers to software designed to cause harm to computers or networks.
 
+Throughout the history of computing, numerous types of malware have been created with various goals in mind, including theft of personal data, destruction of files, and gaining unauthorized access to systems. Some of the earliest recorded instances of malware include the Creeper Program, which was created in the 1970s, and the Reaper, which was designed to delete the Creeper Program.
+
+Other notable examples of early malware include the Wabbit, which was created in the 1980s and could quickly replicate itself, as well as ANIMAL, which was designed to attack IBM mainframe computers. The Elk Cloner, which was created in 1982, was the first virus to spread to personal computers.
+
+In 1988, the Morris Internet Worm made headlines for its rapid spread across the internet and its ability to infect thousands of computers. This incident served as a wakeup call for the need for better security measures to protect against malware.
+
+Finally, the Cascade virus, which was created in 1987, was one of the first viruses to encrypt its own code, making it more difficult for security experts to detect and remove.
 
 
 **Note**: Due to some issue, my daily updates for some days may take some time to be updated, but I will make sure to update them first in the README file.
