@@ -22,6 +22,7 @@ Here's the progress made so far:
 - DAY 14:Epics Project prep
 - DAY 15:learned on using nuclei (vuln scanner)
 - DAY 16: XML External Entity and Broken Access Control
+- DAY 17: history of malware
 
 
 We'll be updating this list as we go along with the challenge.
