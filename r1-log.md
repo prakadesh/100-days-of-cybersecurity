@@ -150,7 +150,7 @@ I learned about a powerful web vulnerability scanner called "Nuclei".
 - it uses a simple YAML-based syntax to define the attack templates and the payload for the tests. which makes it easy to write custom attack scripts that can test for specific vulnerabilities.
 - Nuclei has a ability to detect and report issues in real-time.
 ### R1D16
-I have been learning about two  topics: XML External Entity (XXE) and Broken Access Control.
+I have been learning about two  topics from the tryhackme room OWASP Top 10: XML External Entity (XXE) and Broken Access Control.
 - XXE is a type of attack where an attacker can exploit a vulnerability in an XML parser to access sensitive data or execute arbitrary code. To prevent this, it's important to sanitize all input data and disable external entities in XML parsers.
 - Broken Access Control is another vulnerability that occurs when an application fails to properly restrict access to sensitive data or functionality. This can lead to unauthorized access and information disclosure. To prevent this, access controls should be properly implemented and tested.
 
