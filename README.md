@@ -23,6 +23,7 @@ Here's the progress made so far:
 - DAY 15:learned on using nuclei (vuln scanner)
 - DAY 16: XML External Entity and Broken Access Control
 - DAY 17: history of malware
+- DAY 18: started doing coursera certification 2nd course
 
 
 We'll be updating this list as we go along with the challenge.
