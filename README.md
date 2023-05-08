@@ -25,6 +25,7 @@ Here's the progress made so far:
 - DAY 17: history of malware
 - DAY 18: started doing coursera certification 2nd course
 - DAY 19:completed coursera Cybersecurity Roles, Processes & Operating System Security by IBM
+- DAY 20: learning OSWAP top 10 on Cross-Site Scripting
 
 
 We'll be updating this list as we go along with the challenge.
