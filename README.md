@@ -27,6 +27,7 @@ Here's the progress made so far:
 - DAY 19:completed coursera Cybersecurity Roles, Processes & Operating System Security by IBM
 - DAY 20: learning OSWAP top 10 on Cross-Site Scripting
 - DAY 21:learned on Cross-Site Scripting 
+- DAY 22: epics project work learning java fundamentals and android app devlopement
 - 
 
 
