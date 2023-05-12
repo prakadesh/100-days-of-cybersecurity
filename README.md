@@ -29,6 +29,8 @@ Here's the progress made so far:
 - DAY 21:learned on Cross-Site Scripting 
 - DAY 22: epics project work learning java fundamentals and android app devlopement
 - DAY 23: learning java fundamentals with hand-on via epics project
+- DAY 24: Epics project part-1 done 
+- 
 
 
 We'll be updating this list as we go along with the challenge.
