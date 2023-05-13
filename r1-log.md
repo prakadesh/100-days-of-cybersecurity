@@ -164,5 +164,14 @@ In 1988, the Morris Internet Worm made headlines for its rapid spread across the
 
 Finally, the Cascade virus, which was created in 1987, was one of the first viruses to encrypt its own code, making it more difficult for security experts to detect and remove.
 
+##R1D18 -R1D19
+it is being a week since i update a detailed log on the past 7 days 
+on day 18 i had started doing the part 2 of the IBM cybersecurity analyst course 
+Cybersecurity Roles, Processes & Operating System Security by IBM
+as i had studied this part of the course as a syllabus on my ongoing degree so it took me 2 days to complete the course
+
+
+
+
 
 **Note**: Due to some issue, my daily updates for some days may take some time to be updated, but I will make sure to update them first in the README file.
