@@ -32,6 +32,7 @@ Here's the progress made so far:
 - DAY 24: Epics project part-1 done 
 - DAY 25: practiced some java based android codes and explored firebase functionality 
 - DAY 26: started 3 rd course on coursera for ibm cybersecurity analyst 
+- DAY 27: attended and  won on the App Development hackathon 
 
 
 We'll be updating this list as we go along with the challenge.
