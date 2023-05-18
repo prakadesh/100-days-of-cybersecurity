@@ -34,6 +34,7 @@ Here's the progress made so far:
 - DAY 26: started 3 rd course on coursera for ibm cybersecurity analyst 
 - DAY 27: attended and  won on the App Development hackathon 
 - DAY 28: unable to learn anything related to cybersec completed the epics project and some pending academic activity also projects
+- DAY 29: learned on java data structure such as binary tree
 
 
 We'll be updating this list as we go along with the challenge.
