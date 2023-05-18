@@ -176,6 +176,8 @@ i learned types of xss and how it had aftected a organization and their impacts
 
 
 
-
+### R1D30
+days are getting busier as a we are reaching end of the academic year exam are coming i completed my day 30 by reading a medium post on reverse enginnering 
+https://medium.com/martian-defense/reverse-engineering-cracking-code-218304fcc1ad 
 
 **Note**: Due to some issue, my daily updates for some days may take some time to be updated, but I will make sure to update them first in the README file.
