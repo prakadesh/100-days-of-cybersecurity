@@ -36,6 +36,7 @@ Here's the progress made so far:
 - DAY 28: unable to learn anything related to cybersec completed the epics project and some pending academic activity also projects
 - DAY 29: learned on java data structure such as binary tree
 - DAY 30: learned on reverse enginnering 
+- DAY 31: completed Junior Cybersecurity Analyst Career Path 
 
 
 We'll be updating this list as we go along with the challenge.
