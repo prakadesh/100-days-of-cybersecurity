@@ -182,7 +182,8 @@ https://medium.com/martian-defense/reverse-engineering-cracking-code-218304fcc1a
 ### R1D31
 - i started a course on API Penetration Testing by APIsec university completed setup of a api sec lab  which is useful in pentesting api's for security
 - then completed the Junior Cybersecurity Analyst Career Path exam by cisco
-- 
+### R1D32
+- https://medium.com/@malwaremaycry/beginner-malware-analysis-setting-up-your-lab-44a95e1fe571 completed this
 
 
 **Note**: Due to some issue, my daily updates for some days may take some time to be updated, but I will make sure to update them first in the README file.
