@@ -37,6 +37,7 @@ Here's the progress made so far:
 - DAY 29: learned on java data structure such as binary tree
 - DAY 30: learned on reverse enginnering 
 - DAY 31: completed Junior Cybersecurity Analyst Career Path 
+- DAY 32: completed a lab setup for malware analysis
 
 
 We'll be updating this list as we go along with the challenge.
