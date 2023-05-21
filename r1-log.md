@@ -183,6 +183,12 @@ i learned types of xss and how it had aftected a organization and their impacts
 ### R1D26
 started day 26  by starting the course Cybersecurity Compliance Framework & System Administration from IBM coursera as a part of ibm cybersecurity analyst
 
+### R1D27
+attended and won a 8 hr hackathon on app devlopement in android category [Linkedin]([https://www.linkedin.com/posts/prakadesh-ramesh_bugoffhackathon-winners-teamwork-activity-7064958950202327041-Lgq7?utm_source=share&utm_medium=member_desktop])
+
+
+
+
 
 
 ### R1D30
