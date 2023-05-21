@@ -188,12 +188,17 @@ attended and won a 8 hr hackathon on app devlopement in android category [Linked
 
 ### R1D28
 unable to learn anything related to cybersec completed the epics project and some pending academic activity also projects
+### R1D29
 
+learned on java data structure such as binary tree
 
-
-
-
-
+- Traversing a Binary Tree
+- Inorder
+- Preorder
+- Postorder
+- Insertion in BST
+- Searching in BST
+- Operations on Binary Trees
 
 ### R1D30
 days are getting busier as a we are reaching end of the academic year exam are coming i completed my day 30 by reading a medium post on reverse enginnering 
