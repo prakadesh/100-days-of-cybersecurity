@@ -173,6 +173,12 @@ as i had studied this part of the course as a syllabus on my ongoing degree so i
 ### R1D20-21
 I had once again started going throught the OSWAP top 10 and on the topic cross-side scripting 
 i learned types of xss and how it had aftected a organization and their impacts
+### R1D22-23
+- completed day 22 by starting work on a project which involve devloping a new app which is used to make cyber-complaints
+- i learned java fundamentals 
+- along with  android app devlopement process and deployement  
+-  explored java based android codes
+-  explored firebase functionality and deploying them
 
 
 ### R1D30
