@@ -38,6 +38,7 @@ Here's the progress made so far:
 - DAY 30: learned on reverse enginnering 
 - DAY 31: completed Junior Cybersecurity Analyst Career Path 
 - DAY 32: completed a lab setup for malware analysis
+- DAY 33: completed 3 rd course on coursera for ibm cybersecurity analyst 
 
 
 We'll be updating this list as we go along with the challenge.
