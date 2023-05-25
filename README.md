@@ -41,6 +41,7 @@ Here's the progress made so far:
 - DAY 33: completed 3 rd course on coursera for ibm cybersecurity analyst 
 - DAY 34: exam preparation 
 - DAY 35: Cloud sec exam prep
+- DAY 36: Cloud sec exam prep
 
 
 We'll be updating this list as we go along with the challenge.
