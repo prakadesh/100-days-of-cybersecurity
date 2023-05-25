@@ -42,6 +42,7 @@ Here's the progress made so far:
 - DAY 34: exam preparation 
 - DAY 35: Cloud sec exam prep
 - DAY 36: Cloud sec exam prep
+- DAY 37:studied on api Reconnaissance
 
 
 We'll be updating this list as we go along with the challenge.
