@@ -212,6 +212,26 @@ https://medium.com/martian-defense/reverse-engineering-cracking-code-218304fcc1a
 ### R1D33
 -   completed day 33 by completing Cybersecurity Compliance Framework & System Administration from IBM coursera 
 [My Credly Badge](https://www.credly.com/badges/d271d829-9ca2-4bec-9e94-d5e6a794593a/public_url)
+### R1D34-36
+- prepration for the sem exam on  cloud security 
+- learned on various topics such as 
+   - Security Concepts, cloud models such as deployement mangement and service model
+   - crytographics along with X.509 certificates, OpenSSL
+   - issues in cloud 
+   - Virtualization System-Specific Attacks 
+   - Technologies for Virtualization based Security
+   - Legal and Compliance Issue
+   
+### R1D37
+- completed day 37 by studying on api Reconnaissance such as 
+   - passive Reconnaissance
+   - active Reconnaissance
+- from API Penetration Testing course from apisec
+### R1D38
+unable to study anything related to my domain as i was busy for prepration for pla exam 
+### R1D39
+- completed day 39 by started doing Foundations of Cybersecurity from google course from coursera as a part of Google Cybersecurity Professional Certificate
+it helped to revise some of the core conceptes such as  the impact of security attacks on business operations and  security ethics.
 
 
 
