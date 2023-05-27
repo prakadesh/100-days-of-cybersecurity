@@ -211,7 +211,8 @@ https://medium.com/martian-defense/reverse-engineering-cracking-code-218304fcc1a
 
 ### R1D33
 -   completed day 33 by completing Cybersecurity Compliance Framework & System Administration from IBM coursera 
--   [My Credly Badge]([https://www.credly.com/badges/d271d829-9ca2-4bec-9e94-d5e6a794593a/public_url])
+[My Credly Badge](https://www.credly.com/badges/d271d829-9ca2-4bec-9e94-d5e6a794593a/public_url)
+
 
 
 **Note**: Due to some issue, my daily updates for some days may take some time to be updated, but I will make sure to update them first in the README file.
