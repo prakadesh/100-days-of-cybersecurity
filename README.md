@@ -49,5 +49,5 @@ Here's the progress made so far:
 
 We'll be updating this list as we go along with the challenge.
 as i had a habit of updating the list before going to bed so sometime the log is committed to next days so 
-im updating this regularly for last updated on 13/05/23 from now on i decided to make a time to commit daily so that i can make streaks too 
+im updating this regularly for last updated on 27/05/23 from now on i decided to make a time to commit daily so that i can make streaks too 
 as of 14/05/23 time:
