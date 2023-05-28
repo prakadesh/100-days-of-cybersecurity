@@ -232,7 +232,8 @@ unable to study anything related to my domain as i was busy for prepration for p
 ### R1D39
 - completed day 39 by started doing Foundations of Cybersecurity from google course from coursera as a part of Google Cybersecurity Professional Certificate
 it helped to revise some of the core conceptes such as  the impact of security attacks on business operations and  security ethics.
-
+### R1D40
+-  You can check out my LinkedIn post [here](https://www.linkedin.com/posts/prakadesh-ramesh_completion-certificate-for-foundations-of-activity-7068654422918074368-QO6g?utm_source=share&utm_medium=member_desktop) to learn more about it!
 
 
 **Note**: Due to some issue, my daily updates for some days may take some time to be updated, but I will make sure to update them first in the README file.
