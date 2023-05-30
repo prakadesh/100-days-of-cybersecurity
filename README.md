@@ -47,6 +47,7 @@ Here's the progress made so far:
 - DAY 39: started doing Foundations of Cybersecurity from google as a part of Google Cybersecurity Professional Certificate
 - DAY 40: completed Foundations of Cybersecurity from google as a part of Google Cybersecurity Professional Certificate
 - DAY 41: prepration for exam SVT
+- DAY 42: continue the apisec course 
 
 
 We'll be updating this list as we go along with the challenge.
