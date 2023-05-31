@@ -48,6 +48,7 @@ Here's the progress made so far:
 - DAY 40: completed Foundations of Cybersecurity from google as a part of Google Cybersecurity Professional Certificate
 - DAY 41: prepration for exam SVT
 - DAY 42: continue the apisec course 
+- DAY 43:doing Ethical hacking course from TCM sec
 
 
 We'll be updating this list as we go along with the challenge.
