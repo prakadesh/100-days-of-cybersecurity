@@ -50,7 +50,7 @@ Here's the progress made so far:
 - DAY 42: continue the apisec course 
 - DAY 43:doing Ethical hacking course from TCM sec
 - DAY 44: learned on endpoint analysis from apisec
-- 
+- DAY 45: not feeling well after travelling
 
 
 We'll be updating this list as we go along with the challenge.
