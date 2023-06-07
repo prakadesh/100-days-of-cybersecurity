@@ -55,6 +55,7 @@ Here's the progress made so far:
 - DAY 47:continue of day 46 ans some concept in cryptography 
 - DAY 48: TCP/IP Framework revised as part of Network Security & Database Vulnerabilities course from IBM
 - DAY 49: doing continuously of day 46
+- DAY 50: completed a certificate as a part of IBM cybersecurity analyst 
 
 
 We'll be updating this list as we go along with the challenge.
