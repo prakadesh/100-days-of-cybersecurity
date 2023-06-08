@@ -55,10 +55,11 @@ Here's the progress made so far:
 - DAY 47:continue of day 46 ans some concept in cryptography 
 - DAY 48: TCP/IP Framework revised as part of Network Security & Database Vulnerabilities course from IBM
 - DAY 49: doing continuously of day 46
-- DAY 50: completed a certificate as a part of IBM cybersecurity analyst 
+- DAY 50: doing continuously of day 48 course as a part of ibm cybersecurity analyst 
+- DAY 51: studied on microprocessor like 8086 for upcoming exam 
 
 
 We'll be updating this list as we go along with the challenge.
 as i had a habit of updating the list before going to bed so sometime the log is committed to next days so 
-im updating this regularly for last updated on 27/05/23 from now on i decided to make a time to commit daily so that i can make streaks too 
+im updating this regularly for last updated on jun 08 from now on i decided to make a time to commit daily so that i can make streaks too 
 as of 14/05/23 time:
