@@ -58,7 +58,7 @@ Here's the progress made so far:
 - DAY 50: doing continuously of day 48 course as a part of ibm cybersecurity analyst 
 - DAY 51: studied on microprocessor like 8086 for upcoming exam 
 - DAY 52: continue of day 51
-
+- DAY 53: continue of day 48
 
 We'll be updating this list as we go along with the challenge.
 as i had a habit of updating the list before going to bed so sometime the log is committed to next days so 
