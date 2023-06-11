@@ -60,6 +60,7 @@ Here's the progress made so far:
 - DAY 52: continue of day 51
 - DAY 53: continue of day 48
 
+
 We'll be updating this list as we go along with the challenge.
 as i had a habit of updating the list before going to bed so sometime the log is committed to next days so 
 im updating this regularly for last updated on jun 08 from now on i decided to make a time to commit daily so that i can make streaks too 
