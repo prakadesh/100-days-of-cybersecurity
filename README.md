@@ -60,6 +60,7 @@ Here's the progress made so far:
 - DAY 52: continue of day 51
 - DAY 53: continue of day 48
 - DAY 54: completed course as part of ibm cybersecurity analyst 
+- DAY 55:  continue of day 51
 
 
 We'll be updating this list as we go along with the challenge.
