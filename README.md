@@ -64,7 +64,7 @@ Here's the progress made so far:
 - DAY 56: studied on arm architecture as part of day 51 
 - DAY 57: studied on arm architecture as part of day 51 
 - DAY 58: studied on RSA algortihm 
-- 
+- DAY 59: skipped travel 
 
 
 We'll be updating this list as we go along with the challenge.
