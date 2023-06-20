@@ -66,7 +66,8 @@ Here's the progress made so far:
 - DAY 58: studied on RSA algortihm 
 - DAY 59: skipped travel 
 - DAY 60: started 5th course of ibm cybersecurity analyst
-- DAY 61: unable to study as I was traveling 
+- DAY 61: unable to study as I was traveling
+- DAY 62: continue of day 60
 
 
 We'll be updating this list as we go along with the challenge.
