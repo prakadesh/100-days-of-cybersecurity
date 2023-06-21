@@ -69,7 +69,7 @@ Here's the progress made so far:
 - DAY 61: unable to study as I was traveling
 - DAY 62: continue of day 60
 - DAY 63: continue of day 60
-
+- DAY 64: Studied on AES and DES
 
 We'll be updating this list as we go along with the challenge.
 as i had a habit of updating the list before going to bed so sometime the log is committed to next days so 
