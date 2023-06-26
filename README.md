@@ -72,7 +72,8 @@ Here's the progress made so far:
 - DAY 64: Studied on AES and DES
 - DAY 65: kerckhoff principal and key cipers along with cryptanalysis types
 - DAY 66: Studied on DES and AES working extended euclidean playfair ciper railfench row transposition 
-- DAY 67 & 68: travel time no able to study 
+- DAY 67 & 68: travel time no able to study
+- DAY 69: Started course as part of ibm cybersecurity analyst 
 
 We'll be updating this list as we go along with the challenge.
 as i had a habit of updating the list before going to bed so sometime the log is committed to next days so 
