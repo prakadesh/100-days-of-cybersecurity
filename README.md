@@ -76,7 +76,7 @@ Here's the progress made so far:
 - DAY 69: Started course as part of ibm cybersecurity analyst
 - DAY 70: continuation of course started on day 69
 - DAY 71: continuation of course started on day 69
-- DAY 72:continuation of day 69 with https://link.medium.com/703fawRc2Ab
+- DAY 72: continuation of day 69 with https://link.medium.com/703fawRc2Ab
 
 We'll be updating this list as we go along with the challenge.
 as i had a habit of updating the list before going to bed so sometime the log is committed to next days so 
