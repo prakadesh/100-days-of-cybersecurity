@@ -81,6 +81,7 @@ Here's the progress made so far:
 https://youtu.be/2vAr9K5chII
 - DAY 74:continuation of day 69
 - DAY 75: https://malwareunicorn.org/workshops/re101.html#8
+- DAY 76: continuation of day 69 https://www.youtube.com/watch?v=32KKwgF67Ho
 
 
 We'll be updating this list as we go along with the challenge.
