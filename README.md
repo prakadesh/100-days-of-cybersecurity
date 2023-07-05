@@ -82,6 +82,8 @@ https://youtu.be/2vAr9K5chII
 - DAY 74:continuation of day 69
 - DAY 75: https://malwareunicorn.org/workshops/re101.html#8
 - DAY 76: continuation of day 69 https://www.youtube.com/watch?v=32KKwgF67Ho
+- DAY 77: https://www.youtube.com/watch?v=suMtqZXqqvI
+- DAY 78: https://youtu.be/9IotsXWL1BA
 
 
 We'll be updating this list as we go along with the challenge.
