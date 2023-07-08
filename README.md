@@ -85,7 +85,9 @@ https://youtu.be/2vAr9K5chII
 - DAY 77: https://www.youtube.com/watch?v=suMtqZXqqvI
 - DAY 78: https://youtu.be/9IotsXWL1BA
 - DAY 79: https://overthewire.org/wargames/bandit/bandit0.html
-- DAY 80: continuation of day 69 with https://youtu.be/vq6wNGYzdDE 
+- DAY 80: continuation of day 69 with https://youtu.be/vq6wNGYzdDE
+- DAY 81: Started course as a part of Google Cybersecurity Professional Certificate
+
 
 We'll be updating this list as we go along with the challenge.
 as i had a habit of updating the list before going to bed so sometime the log is committed to next days so 
