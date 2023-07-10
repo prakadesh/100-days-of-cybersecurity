@@ -88,6 +88,7 @@ https://youtu.be/2vAr9K5chII
 - DAY 80: continuation of day 69 with https://youtu.be/vq6wNGYzdDE
 - DAY 81: Started course as a part of Google Cybersecurity Professional Certificate
 - Day 82: break (out of station)
+- DAY 83: continue day 82
 
 
 We'll be updating this list as we go along with the challenge.
