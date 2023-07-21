@@ -234,6 +234,44 @@ unable to study anything related to my domain as i was busy for prepration for p
 it helped to revise some of the core conceptes such as  the impact of security attacks on business operations and  security ethics.
 ### R1D40
 -  You can check out my LinkedIn post [here](https://www.linkedin.com/posts/prakadesh-ramesh_completion-certificate-for-foundations-of-activity-7068654422918074368-QO6g?utm_source=share&utm_medium=member_desktop) to learn more about it!
-
+### R1D41
+- prepration for exam software vulenerability testing
+- learned on various Vulnerability Testing Methods
+- C String Handling, Unbound and Bound String Functions,
+- Metacharacters
+- Memory Corruption – Buffer Overflows and Software Vulnerability Fundamentals
+### R1D42
+- studied on API Authentication Attacks from apisec course
+### R1D43
+- studied the Information Gathering (Reconnaissance) section  from tcm academy course for practical ethical hacking
+### R1D44
+-  learned on endpoint analysis from apisec
+### R1D45-47,49
+-  started course Play It Safe: Manage Security Risk as part of google cybersec
+### R1D48,50,53,54
+- TCP/IP Framework revised as part of Network Security & Database Vulnerabilities course from IBM
+- completed the course in day 54
+### R1D51,52,55-59
+- exam prepration for microprocess
+### R1D60,62,63
+- Penetration Testing, Incident Response and Forensics course as part of IBM cybersec analyst course
+### R1D64-68
+- studied for applied crypto
+### R1D69-74,76,80
+- Cyber Threat Intelligence course as part of IBM cybersec analyst course
+- some link can be found in the readme for the days which i learned along with this part 
+### R1D75
+https://malwareunicorn.org/workshops/re101.html#8 studied on malware analysis from the above 
+### R1D77-79
+- links can be found in readme for the following days
+### R1D81,84
+- Connect and Protect: Networks and Network Security started this 
+### R1D82,83
+- break (out of station) i will add some extra days at the end of 100 days to complete these
+### R1D85-86
+- https://www.youtube.com/playlist?list=PLbyncTkpno5FaAbJJ7YHvMY9wtJ9fyqCH
+- i had taken a small break after this as i feel low now resume the journey
+### R1D87
+- 
 
 **Note**: Due to some issue, my daily updates for some days may take some time to be updated, but I will make sure to update them first in the README file.
