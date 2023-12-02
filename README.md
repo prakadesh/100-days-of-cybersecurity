@@ -91,7 +91,7 @@ https://youtu.be/2vAr9K5chII
 - DAY 83: continue day 82
 - DAY 84: continue day 81
 - DAY 85 & 86 : https://www.youtube.com/playlist?list=PLbyncTkpno5FaAbJJ7YHvMY9wtJ9fyqCH
-- 
+- DAY 87 - 100 : completed IBM cybersecurity analyst along with partial completeion on Google Cybersecurity Professional Certificate
 
 We'll be updating this list as we go along with the challenge.
 as i had a habit of updating the list before going to bed so sometime the log is committed to next days so 
